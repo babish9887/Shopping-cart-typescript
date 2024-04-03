@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Table",
+    "price": 14000,
+    "imgUrl": "/imgs/table.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Headphone",
+    "price": 400,
+    "imgUrl": "/imgs/headphone.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Notebook",
+    "price": 400,
+    "imgUrl": "/imgs/book.jpg"
+  }
+]
